@@ -27,7 +27,7 @@ Also, the original human was feeling nostalgic and apparently thought "you know 
 
 1. **Clone this bad boy:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/PabloMDiez/comic-chat-reborn.git
    cd comic-chat-reborn
    ```
 
