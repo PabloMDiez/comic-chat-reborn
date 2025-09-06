@@ -9,7 +9,7 @@
   },
   "keywords": ["irc", "server", "typescript", "comic-chat"],
   "author": "",
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "devDependencies": {
     "@types/node": "^20.0.0",
     "tsx": "^4.0.0",
