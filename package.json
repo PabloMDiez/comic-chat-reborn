@@ -1,0 +1,19 @@
+{
+  "name": "comic-chat-reborn",
+  "version": "1.0.0",
+  "description": "A TypeScript IRC server compatible with Microsoft Comic Chat",
+  "main": "dist/server.js",
+  "scripts": {
+    "start": "tsx src/server.ts",
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": ["irc", "server", "typescript", "comic-chat"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {}
+}
