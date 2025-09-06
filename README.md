@@ -6,6 +6,8 @@
 
 Remember Microsoft Comic Chat? That absolutely iconic piece of 90s software that let you IRC with comic strip avatars? Well, honey, we're bringing that nostalgia back from the dead! 💀✨
 
+![Microsoft Comic Chat Screenshot showing a furry character named Pablín saying "BECAUSE POR QUÉ NO?" (Because why not?) in a room called "DEBISTE HABER ESTADO AHÍ" (You should have been there), displayed in the classic comic strip format](docs/screenshot.png)
+
 This is a TypeScript IRC server that's compatible with the original Microsoft Comic Chat client. Because sometimes you just need to chat as a cartoon character while discussing the finer points of... well, whatever y'all talked about in the 90s.
 
 ## Why Does This Exist?
